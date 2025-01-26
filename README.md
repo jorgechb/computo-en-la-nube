@@ -2,4 +2,4 @@
 
 Materia de maestría MNA
 
-## Jorge Chávez BAdillo A01749448
+## Jorge Chávez Badillo A01749448
