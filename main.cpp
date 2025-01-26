@@ -1,4 +1,3 @@
-#include "pch.h"
 #include <iostream>
 #include <omp.h>
 
@@ -17,7 +16,7 @@ int main()
     for (i = 0; i < N; i++)
     {
         a[i] = i * 10;
-        b[i] = (i + 3) * 3.7;
+        b[i] = (i + 3) * 3;
     }
 
     int pedazos = chunk;
