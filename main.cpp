@@ -15,8 +15,8 @@ int main()
 
     for (i = 0; i < N; i++)
     {
-        a[i] = i * 12;
-        b[i] = (i + 3) * 1,5;
+        a[i] = i * 2;
+        b[i] = (i + 3) * 4.5;
     }
 
     int pedazos = chunk;
